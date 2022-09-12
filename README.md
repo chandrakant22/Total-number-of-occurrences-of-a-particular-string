@@ -1,4 +1,7 @@
 # Total-number-of-occurrences-of-a-particular-string
+
+<H2>Company : Cognizant genc elevate </H2><br/>
+
 Recurring Strings In an interview, Alice was given an array of strings and was asked to find the total number of occurrences of a particular string.<br/>
 Each string is made of characters ranging from A to Z. <br/>
 Two strings S1 and S2 are considered same if S1 can be converted to S2 in one move or S2 can be converted to S1 in one move.<br/>
